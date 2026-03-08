@@ -185,4 +185,4 @@ Proyecto desarrollado como parte de un ejercicio de **análisis de datos y cienc
 
 # Licencia
 
-Este proyecto es de uso educativo y puede utilizarse como referencia para proyectos de análisis de datos.
+Este proyecto es de uso educativo
