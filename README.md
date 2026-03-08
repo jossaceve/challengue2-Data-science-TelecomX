@@ -165,7 +165,7 @@ python src/load_api_data.py
 ### 4. Abrir el notebook
 
 ```
-jupyter notebook notebooks/Telecom_X_2.ipynb
+jupyter notebook notebooks/Telecom_X.ipynb
 ```
 
 ---
