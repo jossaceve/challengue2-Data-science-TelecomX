@@ -68,7 +68,7 @@ Ejemplo de código para obtener los datos:
 import requests
 import pandas as pd
 
-url = "https://raw.githubusercontent.com/ingridcristh/challenge2-data-science/main/TelecomX_Data.json"
+url = "https://raw.githubusercontent.com/user/challenge2-data-science/main/TelecomX_Data.json"
 
 response = requests.get(url)
 data = response.json()
