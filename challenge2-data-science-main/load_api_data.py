@@ -6,7 +6,7 @@ import requests
 import pandas as pd
 
 # URL de la API con datos en JSON
-API_URL = "https://raw.githubusercontent.com/ingridcristh/challenge2-data-science/main/TelecomX_Data.json"
+API_URL = "https://raw.githubusercontent.com/jossaceve/challenge2-data-science/main/TelecomX_Data.json"
 
 
 def cargar_datos_api(url):
